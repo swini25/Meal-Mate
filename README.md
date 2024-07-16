@@ -41,8 +41,6 @@ _____
 
 **Run the Bot Locally:**
  - replace line 33 in Bot.java file with your bot token.
- - replace line 28 in /service/MongoDBService.java file with this MongoDB link ("mongodb+srv://DdAdimin:5500_orca@cluster0.shnoj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority") or just use the default link in the file.
-_____
 
 **Rule for Code Coverage:**
 |line test | branch test |
